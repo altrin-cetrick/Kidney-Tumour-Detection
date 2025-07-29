@@ -88,8 +88,8 @@ Kidney_Tumor_Detection/
 
 ## ✅ Results
 
-- Accuracy: ~XX% *(Fill this based on your actual result)*
-- Loss: ~XX
+- Accuracy: ~92.45% 
+- Loss: ~0.18
 - Works well on validation/test data
 
 ---
