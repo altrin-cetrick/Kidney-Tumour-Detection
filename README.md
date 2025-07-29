@@ -66,7 +66,7 @@ This project is a deep learning-based image classification system designed to de
 
 ## 🖼️ Sample Prediction
 
-![Sample Image]![Tumor- (4)](https://github.com/user-attachments/assets/7a3fc6c5-4635-4b9d-8b4b-641eefb726e8)
+(https://github.com/user-attachments/assets/7a3fc6c5-4635-4b9d-8b4b-641eefb726e8)
 
 > **Prediction:** Tumor
 
